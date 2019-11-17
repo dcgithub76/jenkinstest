@@ -12,6 +12,8 @@ namespace Jenkins
         {
             Console.WriteLine("Hello");
             Console.WriteLine("test2");
+            Console.WriteLine("Hello");
+            Console.WriteLine("test2");
         }
     }
 }
